@@ -18,4 +18,4 @@ Instalar: `pip install pandas matplotlib seaborn`
 2. Ejecutar las celdas para cargar `data/` desde la URL raw de GitHub o montando Google Drive.
 
 ## Autor
-Andres Mejia — GitHub: @tu_usuario
+Andres Mejia — GitHub: @Andresfms22
